@@ -1,0 +1,10 @@
+call lux-ai-2021 --seed=0 cs584/main2.py cs584/main2.py --maxtime 10000
+call lux-ai-2021 --seed=1 cs584/main2.py cs584/main2.py --maxtime 10000
+call lux-ai-2021 --seed=2 cs584/main2.py cs584/main2.py --maxtime 10000
+call lux-ai-2021 --seed=3 cs584/main2.py cs584/main2.py --maxtime 10000
+call lux-ai-2021 --seed=6 cs584/main2.py cs584/main2.py --maxtime 10000
+call lux-ai-2021 --seed=7 cs584/main2.py cs584/main2.py --maxtime 10000
+call lux-ai-2021 --seed=9 cs584/main2.py cs584/main2.py --maxtime 10000
+call lux-ai-2021 --seed=15 cs584/main2.py cs584/main2.py --maxtime 10000
+call lux-ai-2021 --seed=100 cs584/main2.py cs584/main2.py --maxtime 10000
+call lux-ai-2021 --seed=7534 cs584/main2.py cs584/main2.py --maxtime 10000
